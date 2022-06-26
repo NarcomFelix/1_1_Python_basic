@@ -1,0 +1,10 @@
+Ivanov 10000
+Petrov 10000
+Den 10000
+fan 10000
+gen 10000
+tok 10000
+kom 10000
+lom 10000
+das 10000
+vas 21000
